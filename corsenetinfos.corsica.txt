@@ -1,0 +1,6 @@
+
+author: //meta[@name="author"]/@content
+
+body: //div[contains(concat(' ',normalize-space(@class),' '),' chapeau ')] | //div[contains(concat(' ',normalize-space(@class),' '),' entry-content ')]
+
+test_url: https://www.corsenetinfos.corsica/Bastia-Alain-Chamfort-Les-Brigitte-et-Hugh-Coltman-tetes-d-affiche-des-Musicales_a34022.html
